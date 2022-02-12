@@ -1,4 +1,4 @@
-# ExtracPorts
+# ExtractPorts
 ## Parsea la información más relevante de la captura grepeable de Nmap.
 ### Debemos de tener instalada la herramiento xclip
 ```bash
